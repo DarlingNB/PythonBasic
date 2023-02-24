@@ -94,7 +94,7 @@ for i in range(half_triangle):
 
 
 
-# Вторая половина треугольника C
+# Вторая половина треугольника D
 progression -= 7
 stars_space_count = int(progression / 2)
 decrease = (triangle_lengh - half_triangle) - 1
